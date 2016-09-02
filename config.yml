@@ -1,0 +1,13 @@
+shop:
+  #name will be displayed on the token shop.
+  name: Redeem Prizes
+  #slots must ALWAYS be a multiple of 9, as each row has 9 slots.
+  slots: 9
+slots:
+execution:
+enchantment:
+itemname:
+itemcost:
+itemamount:
+mysql:
+  enabled: false

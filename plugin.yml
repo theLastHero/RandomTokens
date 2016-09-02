@@ -1,0 +1,19 @@
+name: VirtualTokens
+main: net.thelasthero.virtualTokens.nTokens
+version: 1.4.1
+description: >
+
+commands:
+  vtokens: 
+    description: Check your amount of tokens.
+  redeemtokens: 
+    description: Opens the shop.
+  givetokens: 
+    description: Give someone tokens!
+  tokens: 
+    description: Check your amount of tokens.
+    
+permissions:
+  thelasthero.bonustokenchance:
+    description: increases chance of dropping a token
+    default: false
